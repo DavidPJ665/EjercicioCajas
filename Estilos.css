@@ -1,0 +1,15 @@
+.Imagen{width:400px; 
+    height: 200px;}
+
+#Uno, #Dos, #Tres{ border: 2px solid black;
+width:400px;
+height: 200px;
+margin: 1px;}
+
+.ContenedorLinea{
+    background-color: aquamarine;
+    width:404px;
+}
+p {
+    text-align: center;
+  }
